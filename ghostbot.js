@@ -1,5 +1,5 @@
 console.log("Software started!");
-KEY=""
+KEY=process.env.TOKENpassword
 
 //const Discord = require('discord.js');
 const discord = require('discord.js');
