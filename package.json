@@ -1,0 +1,18 @@
+{
+  "name": "ghostbot",
+  "version": "1.0.0",
+  "main": "GhostBot.js",
+  "scripts": {
+    "start": "node -harmony ghostbot.js"
+  },
+  "author": "repu",
+  "license": "ISC",
+  "dependencies": {
+    "danbooru": "^2.0.3",
+    "discord.js": "^11.3.0",
+    "discord.js-commando": "^0.9.0",
+    "request": "^2.85.0"
+  },
+  "description": "javascript discord bot",
+  "devDependencies": {}
+}
